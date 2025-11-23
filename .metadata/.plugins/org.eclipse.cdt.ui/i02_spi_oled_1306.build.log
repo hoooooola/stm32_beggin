@@ -1,0 +1,10 @@
+11:09:00 **** Incremental Build of configuration Debug for project i02_spi_oled_1306 ****
+make -j18 all 
+arm-none-eabi-size  i02_spi_oled_1306.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14328	     12	   4004	  18344	   47a8	i02_spi_oled_1306.elf
+Finished building: default.size.stdout
+ 
+
+11:09:00 Build Finished. 0 errors, 0 warnings. (took 916ms)
+
