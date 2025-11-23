@@ -294,3 +294,6 @@ Binding(CTRL+SHIFT+H,
 
 !ENTRY org.eclipse.cdt.core 1 0 2025-11-23 10:42:59.434
 !MESSAGE Indexed 'i02_spi_oled_1306' (23 sources, 85 headers) in 10.9 sec: 5,830 declarations; 32,524 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0052%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-11-23 11:37:32.870
+!MESSAGE Indexed 'i03_spi_oled_1306_ani' (25 sources, 154 headers) in 3.54 sec: 15,165 declarations; 63,891 references; 5 unresolved inclusions; 121 syntax errors; 1,391 unresolved names (1.7%)
