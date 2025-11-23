@@ -2913,3 +2913,4 @@ java.lang.NullPointerException: Cannot invoke "javax.swing.JTextField.getText()"
 2025-11-23 10:44:36,604 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 4516mS.
 2025-11-23 10:44:36,618 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 13mS.
 2025-11-23 10:44:36,624 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-11-23 11:47:11,942 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
