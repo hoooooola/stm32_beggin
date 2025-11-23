@@ -1,5 +1,7 @@
 ## freeRTOS核心組成
 ### task
+- 任務為 FreeRTOS 中的基本執行單位，可視為一段持續運作的函式流程。每個任務具有獨立堆疊（Stack）、優先序（Priority）與執行狀態（State）。
+
 - status
     - Running：目前正在 CPU 上執行
     - Ready：可執行但尚未輪到
@@ -21,3 +23,13 @@
 
 
 ###  事件群組（Event Groups）
+
+### 任務通知（Task Notifications）
+
+### 軟體計時器（Software Timer）
+
+### 記憶體管理（Memory Management）
+
+## install RTOS
+
+### FreeRTOS + Hello World（以 UART 印出字串）
