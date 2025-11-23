@@ -183,3 +183,64 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\gitClone\GitP
 
 !ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-11-23 01:03:47.456
 !MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.ui.ide 4 4 2025-11-23 01:06:16.207
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 2 1 2025-11-23 01:06:16.215
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2025-11-23 01:06:16.215
+!MESSAGE The project description file (.project) for '1231' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SESSION 2025-11-23 09:03:08.055 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_TW
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-11-23 09:03:26.862
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-11-23 09:03:26.875
+!MESSAGE Log4j2 initialized with config file D:\gitClone\GitProject\STM32CubeIDEworkspace_1.19.0\stm32_beggin\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-11-23 09:03:33.899
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-11-23 09:05:53.785 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_TW
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\gitClone\GitProject\STM32CubeIDEworkspace_1.19.0\stm32_beggin
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-11-23 09:06:05.690
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-11-23 09:06:05.704
+!MESSAGE Log4j2 initialized with config file D:\gitClone\GitProject\STM32CubeIDEworkspace_1.19.0\stm32_beggin\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-11-23 09:06:13.519
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.ui.ide 4 4 2025-11-23 09:10:55.109
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 2 1 2025-11-23 09:10:55.128
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2025-11-23 09:10:55.128
+!MESSAGE The project description file (.project) for '1231' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SESSION 2025-11-23 09:10:56.265 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_TW
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\gitClone\GitProject\STM32CubeIDEworkspace_1.19.0\stm32_beggin
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-11-23 09:11:10.672
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-11-23 09:11:10.688
+!MESSAGE Log4j2 initialized with config file D:\gitClone\GitProject\STM32CubeIDEworkspace_1.19.0\stm32_beggin\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-11-23 09:11:20.112
+!MESSAGE Started RMI Server, listening on port 41337
