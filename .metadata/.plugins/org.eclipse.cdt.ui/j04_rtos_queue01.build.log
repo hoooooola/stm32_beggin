@@ -1,0 +1,10 @@
+11:11:14 **** Incremental Build of configuration Debug for project j04_rtos_queue01 ****
+make -j18 all 
+arm-none-eabi-size  j04_rtos_queue01.elf 
+   text	   data	    bss	    dec	    hex	filename
+  29232	    112	  22016	  51360	   c8a0	j04_rtos_queue01.elf
+Finished building: default.size.stdout
+ 
+
+11:11:14 Build Finished. 0 errors, 0 warnings. (took 463ms)
+

@@ -35,4 +35,4 @@
 ### FreeRTOS + Hello World（以 UART 印出字串）
 
 
-## ai
+## stm32 ai

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;k01_tflite&apos; to &apos;j04_rtos_queue&apos;" description="Rename resource &apos;k01_tflite&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/k01_tflite" name="j04_rtos_queue" stamp="1764469661989" updateReferences="true"/>
+</session>
